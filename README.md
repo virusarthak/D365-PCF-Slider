@@ -10,3 +10,6 @@ Visual Studio 2019
 
 Note
 You may prefer to use the .NET 6.x SDK instead of the Build Tools for Visual Studio. In this case, instead of using msbuild you would use dotnet build.
+
+For more refrence you may visit the official microsoft from where I've build this 
+https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript?tabs=after#prerequisites
